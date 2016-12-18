@@ -191,6 +191,7 @@ p {
 #footer {
   clear: both;
   font-size: larger;
+  background-color:#ececec;
 }
 #main_content {
   width: 545px;
