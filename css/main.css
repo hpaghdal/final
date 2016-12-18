@@ -190,6 +190,7 @@ p {
 }
 #footer {
   clear: both;
+  font-size: larger;
 }
 #main_content {
   width: 545px;
